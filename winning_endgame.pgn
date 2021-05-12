@@ -1,0 +1,21 @@
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/uFt5xvPZ"]
+[Date "2021.04.26"]
+[White "otreble"]
+[Black "aalfayez"]
+[Result "1-0"]
+[UTCDate "2021.04.26"]
+[UTCTime "01:43:43"]
+[WhiteElo "1631"]
+[BlackElo "1605"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+5"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Termination "Normal"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. c3 e6 5. Bb5+ Nc6 6. Nf3 a6 7. Bxc6+ bxc6 8. O-O cxd4 9. cxd4 c5 10. Bg5 Qb6 11. dxc5 Bxc5 12. Nc3 Qxb2 13. Na4 Qb5 14. Nxc5 Qxc5 15. Rc1 Qa5 16. a4 Ne7 17. Bxe7 Kxe7 18. Nd4 Bb7 19. Rb1 Qc7 20. Qg4 g6 21. Qg5+ Kf8 22. Qf6 Rg8 23. Rfc1 Qd7 24. Qg5 Rc8 25. Qh6+ Ke7 26. Qxh7 Rxc1+ 27. Rxc1 Rc8 28. Rxc8 Bxc8 29. Qh4+ Ke8 30. Nb3 Qe7 31. Qh8+ Kd7 32. Qf6 Qxf6 33. exf6 e5 34. g4 Ke6 35. g5 d4 36. h4 Kd5 37. h5 gxh5 38. g6 fxg6 39. f7 d3 40. f8=Q d2 41. Qd8+ 1-0
+
+

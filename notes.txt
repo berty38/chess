@@ -1,0 +1,4 @@
+## Goals
+
+- Build a basic chess engine using classical alpha-beta lookahead
+- Build an interpretable chess engine
